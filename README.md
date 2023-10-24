@@ -1,7 +1,7 @@
 # DAP Project - Modeling & Predicting of Churning Customers
 AI-DS Project_Dự án TTNT-KHDL
 
-## Tại sao lại phải ứng dụng mô hình AI?
+## Tại sao nên ứng dụng mô hình AI?
 
 Việc áp dụng AI đang là xu hướng của các ngành công nghiệp, kinh doanh; sử dụng một mô hình AI để dự đoán việc khách hàng rời bỏ ngân hàng là khả thi và có thể mang lại nhiều lợi ích cho ngân hàng như độ chính xác, sự tối ưu…
 
